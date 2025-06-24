@@ -12,7 +12,7 @@
     </head>
     <body>
 
-            <title>succes </title>
+            <title>succes  et reussite </title>
     </head>
     <body>
         <h1>connexion reussie</h1>
